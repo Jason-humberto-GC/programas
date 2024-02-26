@@ -1,3 +1,6 @@
+#chreap cherap cherap chreap chreap 
+#chreap chreap chreap cherap 
+
 import re
 carpeta_nombre = "documentos\\"
 archivo_nombre = "dos.txt"
